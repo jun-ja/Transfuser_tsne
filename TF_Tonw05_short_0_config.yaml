@@ -3,10 +3,10 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        128,
+        256,
         512
       ],
-      "tensorPath": "https://raw.githubusercontent.com/jun-ja/transfuser_tsne/main/feature_vect_test_0.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/jun-ja/transfuser_tsne/main/feature_vect_30.tsv",
       "metadataPath": "https://raw.githubusercontent.com/jun-ja/transfuser_tsne/main/feature_transfuser_class.tsv",
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/jun-ja/transfuser_tsne/main/sprite.jpg",
