@@ -3,16 +3,16 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        220,
-        128
+        256,
+        512
       ],
-      "tensorPath": "https://gist.githubusercontent.com/dy567/fd868caf2b78cc8b21779f08208488b0/raw/acbb97e0c26a46c16124741bf6ec5bba14282f25/1013_room1_feature_vecs.tsv",
-      "metadataPath": "https://gist.githubusercontent.com/dy567/fd868caf2b78cc8b21779f08208488b0/raw/acbb97e0c26a46c16124741bf6ec5bba14282f25/1013_room1_feature_class.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/jun-ja/transfuser_tsne/main/feature_vect_rt_762.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/jun-ja/transfuser_tsne/main/cls_rt_762.tsv",
       "sprite": {
-        "imagePath": "https://raw.githubusercontent.com/dy567/ToF_TSNE/master/sprite_1013_room1.jpg",
+        "imagePath": "https://raw.githubusercontent.com/jun-ja/transfuser_tsne/main/sprite_rt_762.jpg",
         "singleImageDim": [
-          25,
-          25
+          32,
+          32
         ]
       }
     }
